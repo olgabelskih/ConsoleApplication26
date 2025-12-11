@@ -13,5 +13,5 @@ int main() {
     bibleoteka lib;
     lib.my_bibleoteka();
     cout << endl;
-    return 0;
+    return 0;fghhf
 }
